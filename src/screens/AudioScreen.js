@@ -26,7 +26,7 @@ const AudioScreen = () => {
         backgroundColor: Colors.white,
       }}>
       <CustomAppBar text={'Audio'} />
-
+      <Text>ndawjdoadcn</Text>
       <Tabs
         mode="scrollable"
         showLeadingSpace={false}
